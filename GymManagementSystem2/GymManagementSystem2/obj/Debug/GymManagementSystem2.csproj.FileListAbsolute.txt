@@ -1,0 +1,54 @@
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.exe.config
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.exe
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.pdb
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Form1.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.MainMenu.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Properties.Resources.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.csproj.GenerateResource.Cache
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.exe
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.pdb
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Member1.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.csprojResolveAssemblyReference.cache
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\bin\Debug\Database10.mdf
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\bin\Debug\Database10_log.ldf
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.NewStaff.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.SearchMember.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Equipment.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.ViewEquipment.resources
+C:\Users\WW\OneDrive\Desktop\vishual studio projects\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.FrmLoading.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.exe.config
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.exe
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.pdb
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\bin\Debug\Database10.mdf
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\bin\Debug\Database10_log.ldf
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.exe
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.pdb
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.csprojResolveAssemblyReference.cache
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Form1.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.FrmLoading.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.MainMenu.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Member1.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.NewStaff.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Properties.Resources.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.SearchMember.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Equipment.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.ViewEquipment.resources
+F:\168ShehanE118076\final project\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.csproj.GenerateResource.Cache
+G:\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.exe.config
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.exe
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.pdb
+G:\GymManagementSystem2\GymManagementSystem2\bin\Debug\Database10.mdf
+G:\GymManagementSystem2\GymManagementSystem2\bin\Debug\Database10_log.ldf
+G:\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.exe
+G:\GymManagementSystem2\GymManagementSystem2\bin\Debug\GymManagementSystem2.pdb
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.csprojResolveAssemblyReference.cache
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Form1.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.FrmLoading.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.MainMenu.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Member1.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.NewStaff.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Properties.Resources.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.SearchMember.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.Equipment.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.ViewEquipment.resources
+G:\GymManagementSystem2\GymManagementSystem2\obj\Debug\GymManagementSystem2.csproj.GenerateResource.Cache
